@@ -1,0 +1,14 @@
+C:\Users\otabek\Desktop\homework\contacts\bin\Debug\net8.0\contacts.exe
+C:\Users\otabek\Desktop\homework\contacts\bin\Debug\net8.0\contacts.deps.json
+C:\Users\otabek\Desktop\homework\contacts\bin\Debug\net8.0\contacts.runtimeconfig.json
+C:\Users\otabek\Desktop\homework\contacts\bin\Debug\net8.0\contacts.dll
+C:\Users\otabek\Desktop\homework\contacts\bin\Debug\net8.0\contacts.pdb
+C:\Users\otabek\Desktop\homework\contacts\obj\Debug\net8.0\contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otabek\Desktop\homework\contacts\obj\Debug\net8.0\contacts.AssemblyInfoInputs.cache
+C:\Users\otabek\Desktop\homework\contacts\obj\Debug\net8.0\contacts.AssemblyInfo.cs
+C:\Users\otabek\Desktop\homework\contacts\obj\Debug\net8.0\contacts.csproj.CoreCompileInputs.cache
+C:\Users\otabek\Desktop\homework\contacts\obj\Debug\net8.0\contacts.dll
+C:\Users\otabek\Desktop\homework\contacts\obj\Debug\net8.0\refint\contacts.dll
+C:\Users\otabek\Desktop\homework\contacts\obj\Debug\net8.0\contacts.pdb
+C:\Users\otabek\Desktop\homework\contacts\obj\Debug\net8.0\contacts.genruntimeconfig.cache
+C:\Users\otabek\Desktop\homework\contacts\obj\Debug\net8.0\ref\contacts.dll
