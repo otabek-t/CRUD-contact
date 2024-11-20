@@ -1,0 +1,15 @@
+C:\Users\otabek\Desktop\homework\OOP Restoran\bin\Debug\net8.0\OOP Restoran.exe
+C:\Users\otabek\Desktop\homework\OOP Restoran\bin\Debug\net8.0\OOP Restoran.deps.json
+C:\Users\otabek\Desktop\homework\OOP Restoran\bin\Debug\net8.0\OOP Restoran.runtimeconfig.json
+C:\Users\otabek\Desktop\homework\OOP Restoran\bin\Debug\net8.0\OOP Restoran.dll
+C:\Users\otabek\Desktop\homework\OOP Restoran\bin\Debug\net8.0\OOP Restoran.pdb
+C:\Users\otabek\Desktop\homework\OOP Restoran\obj\Debug\net8.0\OOP Restoran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otabek\Desktop\homework\OOP Restoran\obj\Debug\net8.0\OOP Restoran.AssemblyInfoInputs.cache
+C:\Users\otabek\Desktop\homework\OOP Restoran\obj\Debug\net8.0\OOP Restoran.AssemblyInfo.cs
+C:\Users\otabek\Desktop\homework\OOP Restoran\obj\Debug\net8.0\OOP Restoran.csproj.CoreCompileInputs.cache
+C:\Users\otabek\Desktop\homework\OOP Restoran\obj\Debug\net8.0\OOP Restoran.sourcelink.json
+C:\Users\otabek\Desktop\homework\OOP Restoran\obj\Debug\net8.0\OOP Restoran.dll
+C:\Users\otabek\Desktop\homework\OOP Restoran\obj\Debug\net8.0\refint\OOP Restoran.dll
+C:\Users\otabek\Desktop\homework\OOP Restoran\obj\Debug\net8.0\OOP Restoran.pdb
+C:\Users\otabek\Desktop\homework\OOP Restoran\obj\Debug\net8.0\OOP Restoran.genruntimeconfig.cache
+C:\Users\otabek\Desktop\homework\OOP Restoran\obj\Debug\net8.0\ref\OOP Restoran.dll
