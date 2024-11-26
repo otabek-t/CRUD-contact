@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\otabek\\Desktop\\homework\\oopTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E670D96-22A8-40E8-A65B-84ADEBE28F61}|oopTasks.csproj|c:\\users\\otabek\\desktop\\homework\\ooptasks\\userservice\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E670D96-22A8-40E8-A65B-84ADEBE28F61}|oopTasks.csproj|solutionrelative:userservice\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E670D96-22A8-40E8-A65B-84ADEBE28F61}|oopTasks.csproj|c:\\users\\otabek\\desktop\\homework\\ooptasks\\model\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E670D96-22A8-40E8-A65B-84ADEBE28F61}|oopTasks.csproj|solutionrelative:model\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E670D96-22A8-40E8-A65B-84ADEBE28F61}|oopTasks.csproj|c:\\users\\otabek\\desktop\\homework\\ooptasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E670D96-22A8-40E8-A65B-84ADEBE28F61}|oopTasks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\otabek\\Desktop\\homework\\oopTasks\\userService\\CompanyService.cs",
+              "RelativeDocumentMoniker": "userService\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\otabek\\Desktop\\homework\\oopTasks\\userService\\CompanyService.cs",
+              "RelativeToolTip": "userService\\CompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:51:55.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\otabek\\Desktop\\homework\\oopTasks\\Model\\Company.cs",
+              "RelativeDocumentMoniker": "Model\\Company.cs",
+              "ToolTip": "C:\\Users\\otabek\\Desktop\\homework\\oopTasks\\Model\\Company.cs",
+              "RelativeToolTip": "Model\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:51:23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\otabek\\Desktop\\homework\\oopTasks\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\otabek\\Desktop\\homework\\oopTasks\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:11:57.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

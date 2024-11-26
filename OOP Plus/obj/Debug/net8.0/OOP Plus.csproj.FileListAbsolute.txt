@@ -1,0 +1,15 @@
+C:\Users\otabek\Desktop\homework\OOP Plus\bin\Debug\net8.0\OOP Plus.exe
+C:\Users\otabek\Desktop\homework\OOP Plus\bin\Debug\net8.0\OOP Plus.deps.json
+C:\Users\otabek\Desktop\homework\OOP Plus\bin\Debug\net8.0\OOP Plus.runtimeconfig.json
+C:\Users\otabek\Desktop\homework\OOP Plus\bin\Debug\net8.0\OOP Plus.dll
+C:\Users\otabek\Desktop\homework\OOP Plus\bin\Debug\net8.0\OOP Plus.pdb
+C:\Users\otabek\Desktop\homework\OOP Plus\obj\Debug\net8.0\OOP Plus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otabek\Desktop\homework\OOP Plus\obj\Debug\net8.0\OOP Plus.AssemblyInfoInputs.cache
+C:\Users\otabek\Desktop\homework\OOP Plus\obj\Debug\net8.0\OOP Plus.AssemblyInfo.cs
+C:\Users\otabek\Desktop\homework\OOP Plus\obj\Debug\net8.0\OOP Plus.csproj.CoreCompileInputs.cache
+C:\Users\otabek\Desktop\homework\OOP Plus\obj\Debug\net8.0\OOP Plus.sourcelink.json
+C:\Users\otabek\Desktop\homework\OOP Plus\obj\Debug\net8.0\OOP Plus.dll
+C:\Users\otabek\Desktop\homework\OOP Plus\obj\Debug\net8.0\refint\OOP Plus.dll
+C:\Users\otabek\Desktop\homework\OOP Plus\obj\Debug\net8.0\OOP Plus.pdb
+C:\Users\otabek\Desktop\homework\OOP Plus\obj\Debug\net8.0\OOP Plus.genruntimeconfig.cache
+C:\Users\otabek\Desktop\homework\OOP Plus\obj\Debug\net8.0\ref\OOP Plus.dll

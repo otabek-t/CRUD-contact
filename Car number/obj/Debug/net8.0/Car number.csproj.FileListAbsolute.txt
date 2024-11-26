@@ -1,0 +1,15 @@
+C:\Users\otabek\Desktop\homework\Car number\bin\Debug\net8.0\Car number.exe
+C:\Users\otabek\Desktop\homework\Car number\bin\Debug\net8.0\Car number.deps.json
+C:\Users\otabek\Desktop\homework\Car number\bin\Debug\net8.0\Car number.runtimeconfig.json
+C:\Users\otabek\Desktop\homework\Car number\bin\Debug\net8.0\Car number.dll
+C:\Users\otabek\Desktop\homework\Car number\bin\Debug\net8.0\Car number.pdb
+C:\Users\otabek\Desktop\homework\Car number\obj\Debug\net8.0\Car number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otabek\Desktop\homework\Car number\obj\Debug\net8.0\Car number.AssemblyInfoInputs.cache
+C:\Users\otabek\Desktop\homework\Car number\obj\Debug\net8.0\Car number.AssemblyInfo.cs
+C:\Users\otabek\Desktop\homework\Car number\obj\Debug\net8.0\Car number.csproj.CoreCompileInputs.cache
+C:\Users\otabek\Desktop\homework\Car number\obj\Debug\net8.0\Car number.sourcelink.json
+C:\Users\otabek\Desktop\homework\Car number\obj\Debug\net8.0\Car number.dll
+C:\Users\otabek\Desktop\homework\Car number\obj\Debug\net8.0\refint\Car number.dll
+C:\Users\otabek\Desktop\homework\Car number\obj\Debug\net8.0\Car number.pdb
+C:\Users\otabek\Desktop\homework\Car number\obj\Debug\net8.0\Car number.genruntimeconfig.cache
+C:\Users\otabek\Desktop\homework\Car number\obj\Debug\net8.0\ref\Car number.dll

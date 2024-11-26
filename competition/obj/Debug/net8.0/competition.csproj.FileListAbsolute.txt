@@ -1,0 +1,15 @@
+C:\Users\otabek\Desktop\homework\competition\bin\Debug\net8.0\competition.exe
+C:\Users\otabek\Desktop\homework\competition\bin\Debug\net8.0\competition.deps.json
+C:\Users\otabek\Desktop\homework\competition\bin\Debug\net8.0\competition.runtimeconfig.json
+C:\Users\otabek\Desktop\homework\competition\bin\Debug\net8.0\competition.dll
+C:\Users\otabek\Desktop\homework\competition\bin\Debug\net8.0\competition.pdb
+C:\Users\otabek\Desktop\homework\competition\obj\Debug\net8.0\competition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otabek\Desktop\homework\competition\obj\Debug\net8.0\competition.AssemblyInfoInputs.cache
+C:\Users\otabek\Desktop\homework\competition\obj\Debug\net8.0\competition.AssemblyInfo.cs
+C:\Users\otabek\Desktop\homework\competition\obj\Debug\net8.0\competition.csproj.CoreCompileInputs.cache
+C:\Users\otabek\Desktop\homework\competition\obj\Debug\net8.0\competition.sourcelink.json
+C:\Users\otabek\Desktop\homework\competition\obj\Debug\net8.0\competition.dll
+C:\Users\otabek\Desktop\homework\competition\obj\Debug\net8.0\refint\competition.dll
+C:\Users\otabek\Desktop\homework\competition\obj\Debug\net8.0\competition.pdb
+C:\Users\otabek\Desktop\homework\competition\obj\Debug\net8.0\competition.genruntimeconfig.cache
+C:\Users\otabek\Desktop\homework\competition\obj\Debug\net8.0\ref\competition.dll

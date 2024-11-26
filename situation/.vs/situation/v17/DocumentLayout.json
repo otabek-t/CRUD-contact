@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\otabek\\Desktop\\homework\\situation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21416C41-1F81-462D-BAAD-CA724CA881A4}|situation.csproj|c:\\users\\otabek\\desktop\\homework\\situation\\model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21416C41-1F81-462D-BAAD-CA724CA881A4}|situation.csproj|solutionrelative:model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21416C41-1F81-462D-BAAD-CA724CA881A4}|olimpia.csproj|c:\\users\\otabek\\desktop\\homework\\situation\\olimpia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21416C41-1F81-462D-BAAD-CA724CA881A4}|olimpia.csproj|solutionrelative:olimpia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21416C41-1F81-462D-BAAD-CA724CA881A4}|situation.csproj|c:\\users\\otabek\\desktop\\homework\\situation\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21416C41-1F81-462D-BAAD-CA724CA881A4}|situation.csproj|solutionrelative:service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21416C41-1F81-462D-BAAD-CA724CA881A4}|situation.csproj|c:\\users\\otabek\\desktop\\homework\\situation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21416C41-1F81-462D-BAAD-CA724CA881A4}|situation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "olimpia.csproj",
+              "DocumentMoniker": "C:\\Users\\otabek\\Desktop\\homework\\situation\\olimpia.csproj",
+              "RelativeDocumentMoniker": "olimpia.csproj",
+              "ToolTip": "C:\\Users\\otabek\\Desktop\\homework\\situation\\olimpia.csproj*",
+              "RelativeToolTip": "olimpia.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T18:19:02.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "service.cs",
+              "DocumentMoniker": "C:\\Users\\otabek\\Desktop\\homework\\situation\\service\\service.cs",
+              "RelativeDocumentMoniker": "service\\service.cs",
+              "ToolTip": "C:\\Users\\otabek\\Desktop\\homework\\situation\\service\\service.cs*",
+              "RelativeToolTip": "service\\service.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:35:51.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "event.cs",
+              "DocumentMoniker": "C:\\Users\\otabek\\Desktop\\homework\\situation\\model\\event.cs",
+              "RelativeDocumentMoniker": "model\\event.cs",
+              "ToolTip": "C:\\Users\\otabek\\Desktop\\homework\\situation\\model\\event.cs*",
+              "RelativeToolTip": "model\\event.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:35:19.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\otabek\\Desktop\\homework\\situation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\otabek\\Desktop\\homework\\situation\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:33:58.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
